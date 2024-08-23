@@ -1,0 +1,13 @@
+#55679  heading color
+#7C93C3 nav color
+#3795BD Background color    
+ 
+
+
+
+
+<div class="header-con"><h1>Robotics.XYZ</h1></div>
+    <nav><ul><li><a href="index.html">Home</a></li>
+        <li><a href="#">About US</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Pricing</a></li></ul></nav>
